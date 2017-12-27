@@ -2,6 +2,8 @@
 
 # Ruby on Rails Tutorial sample application
 
+ - small change by Miko
+
 This is the sample application for
 [*Ruby on Rails Tutorial:
 Learn Web Development with Rails*](http://www.railstutorial.org/)
